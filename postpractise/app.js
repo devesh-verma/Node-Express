@@ -14,14 +14,14 @@ app.get("/", function(req, res){
 
 
 app.get("/friends", function(req, res){
-   res.render("friends", {friends:friends})
+   res.render("friends", {friends:friends}) //{friends: friends} the friends after colon is the list of friends.
 });
 
 
 //post route is used when we are sending data
 app.post("/addfrnd", function(req, res){
     var newfrnd = req.body.newfrnd; //namefrnd is the name attribute in friends.ejs
-    // console.log(frnd);
+    // console.log(newfrnd);
     friends.push(newfrnd);
     res.redirect("/friends")
 });
