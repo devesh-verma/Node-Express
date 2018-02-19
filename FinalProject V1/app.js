@@ -15,6 +15,12 @@ app.get("/", function (req, res) {
 var campgrounds = [
     {name:"Ground 1", image: "https://farm9.staticflickr.com/8737/16979987328_1dcbfe73a8.jpg"},
     {name:"Ground 2", image: "https://farm3.staticflickr.com/2870/13589924443_aba8d074e5.jpg"},
+    {name:"Ground 3", image: "https://farm9.staticflickr.com/8798/16979982678_3fefe3c2a7.jpg"},
+    {name:"Ground 1", image: "https://farm9.staticflickr.com/8737/16979987328_1dcbfe73a8.jpg"},
+    {name:"Ground 2", image: "https://farm3.staticflickr.com/2870/13589924443_aba8d074e5.jpg"},
+    {name:"Ground 3", image: "https://farm9.staticflickr.com/8798/16979982678_3fefe3c2a7.jpg"},
+    {name:"Ground 1", image: "https://farm9.staticflickr.com/8737/16979987328_1dcbfe73a8.jpg"},
+    {name:"Ground 2", image: "https://farm3.staticflickr.com/2870/13589924443_aba8d074e5.jpg"},
     {name:"Ground 3", image: "https://farm9.staticflickr.com/8798/16979982678_3fefe3c2a7.jpg"}
 ];
 
