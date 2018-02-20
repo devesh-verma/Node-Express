@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a460da67-dc0b-4cad-a528-06104bb5c144" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/RESTful Routing/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RESTful Routing/public/stylesheets/app.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RESTful Routing/views/new.ejs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RESTful Routing/views/show.ejs" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/app.js" afterPath="$PROJECT_DIR$/FinalProject V2/app.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/package-lock.json" afterPath="$PROJECT_DIR$/FinalProject V2/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/package.json" afterPath="$PROJECT_DIR$/FinalProject V2/package.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/campgrounds.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/new.ejs" afterPath="$PROJECT_DIR$/FinalProject V2/views/new.ejs" />
-    </list>
+    <list default="true" id="a460da67-dc0b-4cad-a528-06104bb5c144" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,10 +41,10 @@
         <entry file="file://$PROJECT_DIR$/RESTful Routing/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" column="92" lean-forward="false" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="87" lean-forward="false" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
                 <folding>
-                  <marker date="1519151048151" expanded="true" signature="1187:1214" ph="{...}" />
+                  <marker date="1519151139606" expanded="true" signature="1362:1389" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -308,7 +296,7 @@
       <workItem from="1518931032482" duration="29402000" />
       <workItem from="1519046286917" duration="9796000" />
       <workItem from="1519060511387" duration="11475000" />
-      <workItem from="1519107646610" duration="29522000" />
+      <workItem from="1519107646610" duration="29844000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;testing vim&quot;">
       <created>1518870340507</created>
@@ -321,7 +309,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102591000" />
+    <option name="totallyTimeSpent" value="102913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,7 +324,7 @@
     <frame x="0" y="-4" width="1920" height="1021" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17923036" sideWeight="0.49324325" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21559924" sideWeight="0.49324325" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -741,10 +729,10 @@
     <entry file="file://$PROJECT_DIR$/RESTful Routing/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="92" lean-forward="false" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="87" lean-forward="false" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
             <folding>
-              <marker date="1519151048151" expanded="true" signature="1187:1214" ph="{...}" />
+              <marker date="1519151139606" expanded="true" signature="1362:1389" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
