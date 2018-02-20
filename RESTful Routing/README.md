@@ -86,4 +86,4 @@ But in the second console.log() the body doesnot have script tag.
      image: 'https://www.guidedogs.org/wp-content/uploads/2015/05/Dog-Im-Not.jpg',
      body: '<h1>My new dog</h1>\r\n' } }
 ```
-![sanitization](/https://github.com/devshiva619/Node-Express/blob/master/RESTful%20Routing/READMEassests/sanitization.gif)
+![sanitization](https://github.com/devshiva619/Node-Express/blob/master/RESTful%20Routing/READMEassests/sanitization.gif)
