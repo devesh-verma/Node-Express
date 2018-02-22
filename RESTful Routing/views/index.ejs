@@ -16,7 +16,7 @@
                         </div>
                         <div class="description">
                             <!--.substring() help us specify the number of characters we want to display.-->
-                            <p><%- blog.body.substring(0,100)%>...</p>
+                            <p><%= blog.body.substring(0,100)%>...</p>
                         </div>
                         <div class="extra">
                             <a class="ui floated basic violet button" href="/blogs/<%= blog._id %>">
