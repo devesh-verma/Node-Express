@@ -119,7 +119,7 @@ app.get("/campgrounds/:id/comments/new", function (req, res) {
 //submitting the comment form
 app.post("/campgrounds/:id/comments", function (req, res) {
     //Lookup campground using ID
-    Campground.findById(req.param.id, function (err, campground) {
+    Campground.findById(req.params.id, function (err, campground) {
         if(err){
             console.log(err);
             res.redirect("/campgrounds");
