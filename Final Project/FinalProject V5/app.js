@@ -14,6 +14,7 @@ mongoose.connect("mongodb://localhost/yelp_camp_V4");  // Connecting to mongoose
 
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({extended: true}));
+app.use(express.static(__dirname + "/public"));
 
 seedDB();   // This will execute everytime and it will remove the data from and and populate it with sample data for our use.
 
