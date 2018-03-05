@@ -25,6 +25,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(passport.initialize());
 app.use(passport.session());
 
+passport.use(new LocalStratergy(User.authenticate()));
 //These are very imp lines in passport.js.
 //These are responsible for reading the session, taking the data
 //from the session, encoding and unencoding it
@@ -69,6 +70,22 @@ app.post("/register", function(req, res){
     });
 });
 
+
+//LOGIN ROUTES
+
+//login form
+app.get("/login", function(req, res){
+    res. render("login")
+});
+
+//login logic
+app.post("/login", passport.authenticate("local", {
+    //This is a middleware, a middleware a piece a code that runs between start of the route and final end of the route.
+    successRedirect: "/secret",
+    failureRedirect: "/login"
+}) ,function(req, res){
+
+});
 
 app.listen(3000, function(){
     console.log("server at 3000")
