@@ -44,11 +44,11 @@ app.get("/", function(req, res){
 });
 
 
-app.get("/secret", function(req, res){
+app.get("/secret", isLoggedIn, function(req, res){
     res.render("secret")
 });
 
-//Auth Routes
+//AUTH ROUTES
 
 //Show signup form
 app.get("/register", function(req, res){
@@ -87,6 +87,23 @@ app.post("/login", passport.authenticate("local", {
 
 });
 
+
+//LOGOUT
+app.get("/logout", function(req, res){
+    req.logout();
+    res.redirect("/");
+});
+
+
+//Middleware to see if user is authenticated
+function isLoggedIn(req, res, next){
+    if(req.isAuthenticated()){
+        return next();
+    }
+    res.redirect("/login");
+}
+
+//Server
 app.listen(3000, function(){
     console.log("server at 3000")
 });
