@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a460da67-dc0b-4cad-a528-06104bb5c144" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/app.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/app.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/package-lock.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/package.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/package.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/views/campgrounds.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/views/campgrounds.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/views/landing.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/landing.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/views/new.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/views/new.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/views/partials/footer.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/partials/footer.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V1/views/partials/header.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/partials/header.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/app.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/app.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/package-lock.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/package.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/package.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/index.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/index.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/landing.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/landing.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/new.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/new.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/partials/footer.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/partials/footer.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/partials/header.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/partials/header.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V2/views/show.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/show.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/README.md" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/README.md" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/app.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/app.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/models/campground.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/models/campground.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/models/comment.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/models/comment.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/package-lock.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/package.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/package.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/seeds.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/seeds.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/index.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/index.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/landing.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/landing.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/new.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/new.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/partials/footer.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/partials/footer.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/partials/header.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/views/partials/header.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V3/views/show.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/views/show.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/.app.js.swp" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/.app.js.swp" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/README.md" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/README.md" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/app.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/app.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/models/campground.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/models/campground.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/models/comment.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/models/comment.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/package-lock.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/package.json" afterPath="$PROJECT_DIR$/Final Project/FinalProject V2/package.json" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/seeds.js" afterPath="$PROJECT_DIR$/Final Project/FinalProject V3/seeds.js" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/campgrounds/index.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/campgrounds/index.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/campgrounds/new.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/campgrounds/new.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/campgrounds/show.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/campgrounds/show.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/comments/new.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V4/views/comments/new.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/landing.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/views/landing.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/partials/footer.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/views/partials/footer.ejs" />
-      <change beforePath="$PROJECT_DIR$/FinalProject V4/views/partials/header.ejs" afterPath="$PROJECT_DIR$/Final Project/FinalProject V1/views/partials/header.ejs" />
+    <list default="true" id="a460da67-dc0b-4cad-a528-06104bb5c144" name="Default" comment="done with styling">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,33 +20,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/app.js">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <state relative-caret-position="254">
+              <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="login.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/login.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/views/comments/new.ejs">
+      <file leaf-file-name="register.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/register.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/models/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secret.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/secret.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/home.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -101,8 +84,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -123,18 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ejsdemo/app.js" />
-        <option value="$PROJECT_DIR$/ejsdemo/views/partials/footer.ejs" />
-        <option value="$PROJECT_DIR$/ejsdemo/views/post.ejs" />
-        <option value="$PROJECT_DIR$/ejsdemo/views/partials/header.ejs" />
-        <option value="$PROJECT_DIR$/postpractise/views/home.ejs" />
-        <option value="$PROJECT_DIR$/postpractise/views/friedns.ejs" />
-        <option value="$PROJECT_DIR$/postpractise/views/friends.ejs" />
-        <option value="$PROJECT_DIR$/apipractise/firstreq.js" />
-        <option value="$PROJECT_DIR$/postpractise/app.js" />
-        <option value="$PROJECT_DIR$/movieapi/views/moviesearch.ejs" />
-        <option value="$PROJECT_DIR$/movieapi/app.js" />
-        <option value="$PROJECT_DIR$/movieapi/views/results.ejs" />
         <option value="$PROJECT_DIR$/FinalProject/views/landing.ejs" />
         <option value="$PROJECT_DIR$/FinalProject/app.js" />
         <option value="$PROJECT_DIR$/FinalProject/views/campgrounds.ejs" />
@@ -174,6 +145,18 @@
         <option value="$PROJECT_DIR$/FinalProject V4/views/campgrounds/show.ejs" />
         <option value="$PROJECT_DIR$/FinalProject V4/app.js" />
         <option value="$PROJECT_DIR$/FinalProject V4/views/comments/new.ejs" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V4/app.js" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V5/seeds.js" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V5/views/campgrounds/show.ejs" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V5/app.js" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V5/views/partials/header.ejs" />
+        <option value="$PROJECT_DIR$/Final Project/FinalProject V5/public/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/models/user.js" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/views/home.ejs" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/views/secret.ejs" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/views/register.ejs" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/views/login.ejs" />
+        <option value="$PROJECT_DIR$/Authentication/AuthDemo/app.js" />
       </list>
     </option>
   </component>
@@ -184,9 +167,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Authentication/AuthDemo/node_modules" />
     <handled-path value="$PROJECT_DIR$/Final Project/FinalProject V4/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Final Project/FinalProject V5/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="24" />
     <option name="width" value="960" />
     <option name="height" value="993" />
@@ -214,11 +199,6 @@
             <path>
               <item name="Node-Express" type="b2602c69:ProjectViewProjectNode" />
               <item name="Node-Express" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node-Express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node-Express" type="462c0819:PsiDirectoryNode" />
-              <item name="Final Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,7 +282,9 @@
       <workItem from="1519277633014" duration="11308000" />
       <workItem from="1519403762919" duration="11878000" />
       <workItem from="1519640969009" duration="5070000" />
-      <workItem from="1519833916199" duration="4274000" />
+      <workItem from="1519833916199" duration="5244000" />
+      <workItem from="1520260516035" duration="12152000" />
+      <workItem from="1520336768893" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;testing vim&quot;">
       <created>1518870340507</created>
@@ -311,11 +293,46 @@
       <option name="project" value="LOCAL" />
       <updated>1518870340507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done with styling">
+      <created>1520269085677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520269085677</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done registration part">
+      <created>1520273710991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520273710991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="login working">
+      <created>1520274785866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520274785866</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done authenticaion and middleware">
+      <created>1520275505700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520275505700</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Authetication done">
+      <created>1520275670296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1520275670296</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144331000" />
+    <option name="totallyTimeSpent" value="157480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,19 +344,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1021" extended-state="7" />
+    <frame x="0" y="-4" width="1920" height="1021" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25672114" sideWeight="0.49324325" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11544544" sideWeight="0.49324325" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26936027" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-76" y="232" width="1920" height="993" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22671156" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-76" y="232" width="1920" height="993" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22192936" sideWeight="0.5067568" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -382,65 +400,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;testing vim&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;testing vim&quot;" />
+    <MESSAGE value="done with styling" />
+    <MESSAGE value="done registration part" />
+    <MESSAGE value="login working" />
+    <MESSAGE value="Done authenticaion and middleware" />
+    <MESSAGE value="Authetication done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authetication done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FinalProject/package.json" />
-    <entry file="file://$PROJECT_DIR$/ejsdemo/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejsdemo/views/home.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejsdemo/views/post.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/views/partials/header.ejs" />
-    <entry file="file://$PROJECT_DIR$/Database/cats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="53" column="43" lean-forward="true" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/views/partials/footer.ejs" />
-    <entry file="file://$PROJECT_DIR$/FinalProject/views/campgrounds.ejs" />
-    <entry file="file://$PROJECT_DIR$/FinalProject/views/new.ejs" />
-    <entry file="file://$PROJECT_DIR$/FinalProject/app.js" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/views/landing.ejs" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
-          <caret line="59" column="6" lean-forward="false" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject V2/views/campgrounds.ejs" />
     <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V2/views/new.ejs">
       <provider selected="true" editor-type-id="text-editor">
@@ -635,7 +606,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
             <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -645,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +651,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="48">
             <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -696,15 +660,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/views/comments/new.ejs">
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="651">
+          <caret line="137" column="17" lean-forward="false" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -713,16 +675,111 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
             <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/app.js">
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V4/views/comments/new.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V5/seeds.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="20" column="888" lean-forward="false" selection-start-line="20" selection-start-column="888" selection-end-line="20" selection-end-column="888" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V5/views/partials/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V5/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V5/public/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Project/FinalProject V5/views/campgrounds/show.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstExpressApp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/secret.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/register.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/AuthDemo/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
           <folding />
         </state>
       </provider>
